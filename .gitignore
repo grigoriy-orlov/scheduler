@@ -1,0 +1,11 @@
+.idea
+*.iml
+*.ipr
+*.iws
+target
+.project
+.settings
+.classpath
+jsduck/qode-api-reference
+qode-interop/src/test/resources/js/manual
+/.integration-scripts
